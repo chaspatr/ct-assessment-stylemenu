@@ -24,7 +24,7 @@ nav {
         - use a lighter weight font
 */
 header h1 {
-  font: "Bungee Inline";
+  font-family: "Bungee Inline";
   font-size: 46px;
   font-weight: lighter;
 }
